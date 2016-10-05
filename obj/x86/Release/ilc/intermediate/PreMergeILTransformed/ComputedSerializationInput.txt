@@ -1,0 +1,4 @@
+"/t:System.Object,System.Runtime,dcs"
+"/t:Bing.Maps.MapsResponse`1[[Bing.Maps.Location,Bing.RestClient]],Bing.RestClient,dcs"
+"/t:Bing.Spatial.SpatialResponseWrapper`1[[System.Object,System.Runtime]],Bing.RestClient,dcs"
+"/t:Bing.Spatial.SpatialResponseListWrapper`1[[System.Object,System.Runtime]],Bing.RestClient,dcs"

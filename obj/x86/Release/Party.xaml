@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="App2.Party"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid x:ConnectionId='1' Name="PartyGrid1" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <WebView x:ConnectionId='2' Name="PartyView1" HorizontalAlignment="Left" Height="504" Margin="46,174,0,0" VerticalAlignment="Top" Width="1191" RenderTransformOrigin="0.52,0.52"/>
+        <HyperlinkButton x:ConnectionId='3' Content="Back To Options Menu" Foreground="Blue"  HorizontalAlignment="Left" Margin="46,42,0,0" VerticalAlignment="Top" Height="83" Width="363"                              />
+
+    </Grid>
+</Page>
+

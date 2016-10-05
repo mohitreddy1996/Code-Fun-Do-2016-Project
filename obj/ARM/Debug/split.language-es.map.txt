@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-es"
+"ResourceDimensions"		"language-es-es"
+
+[Files]
+"C:\Users\GEETHU\documents\visual studio 2015\Projects\App2\App2\obj\ARM\Debug\split.language-es.pri"			"resources.pri"

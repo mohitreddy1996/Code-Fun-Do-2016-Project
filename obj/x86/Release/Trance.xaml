@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="App2.Trance"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <HyperlinkButton x:ConnectionId='1' Content="Back To Options Menu" HorizontalAlignment="Left" Margin="57,10,0,0" VerticalAlignment="Top" Height="123" Width="319"                              />
+        <WebView x:ConnectionId='2' HorizontalAlignment="Left" Name="TranceView1" Height="535" Margin="57,138,0,0" VerticalAlignment="Top" Width="1186"                                      />
+
+    </Grid>
+</Page>
+
